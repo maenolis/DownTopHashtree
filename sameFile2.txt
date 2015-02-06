@@ -1,0 +1,228 @@
+inserting page_number : 0
+/*Filename : components.cpp*/
+
+#include <iostream>
+digest is : 2832723cb1e9273ba8f23ba41aafe6ce
+inserting page_number : 1
+
+#include <cstring>
+#include "components.h"
+
+using
+digest is : f3f3ff68f051a618ed07831fc6b6523a
+inserting page_number : 2
+makeDigest() : digest != NULL !!
+node with page number : 0
+makeDigest() : digest != NULL !!
+node with page number : 1
+makeDigest() : digest != NULL !!
+node with page number : 2
+Digest made : a59bbcfaa9fce1b60dbac751d35a3b72
+node with page number : -1
+=========
+makeDigest() : END
+ namespace std;
+
+Mountains::Mountains() {
+	cout <<
+digest is : 6398ad03562d3ba0367b940d00a2b590
+inserting page_number : 3
+ "Mountains were just created!" << endl;
+}
+
+Mounta
+digest is : 46c18815f55ec8a520fc23e4e95ae530
+inserting page_number : 4
+ins::~Mountains() {
+	cout << "Mountains are about 
+digest is : 2fb6e0264ef6c80e4e8384210a1e06db
+inserting page_number : 5
+makeDigest() : digest != NULL !!
+node with page number : 3
+makeDigest() : digest != NULL !!
+node with page number : 4
+makeDigest() : digest != NULL !!
+node with page number : 5
+Digest made : 34a73b6b66e8ff2fc9819cbd27fef566
+node with page number : -3
+=========
+makeDigest() : END
+to be destroyed." << endl;
+}
+
+digest is : f8f6607569a0c7e6bd87420c73e135c1
+==========
+TREE FINALIZING START!
+node with page number : -2
+==========
+==========
+TREE FINALIZING START!
+node with page number : -1
+==========
+makeDigest() : digest != NULL !!
+node with page number : -1
+==========
+TREE FINALIZING START!
+node with page number : -3
+==========
+makeDigest() : digest != NULL !!
+node with page number : -3
+Digest made : ead10876021d658ef0c7031b974bf813
+node with page number : -2
+=========
+makeDigest() : END
+==========
+TREE FINALIZING END!
+node with page number : -2
+==========
+A tree with fan-out : 3 was just created and loaded!!
+inserting page_number : 0
+/*Filename : components.cpp*/
+
+#include <iostream>
+digest is : 2832723cb1e9273ba8f23ba41aafe6ce
+inserting page_number : 1
+
+#include <cstring>
+#include "components.h"
+
+using
+digest is : f3f3ff68f051a618ed07831fc6b6523a
+inserting page_number : 2
+makeDigest() : digest != NULL !!
+node with page number : 0
+makeDigest() : digest != NULL !!
+node with page number : 1
+makeDigest() : digest != NULL !!
+node with page number : 2
+Digest made : a59bbcfaa9fce1b60dbac751d35a3b72
+node with page number : -4
+=========
+makeDigest() : END
+ namespace std;
+
+Mountains::Mountains() {
+	cout <<
+digest is : 6398ad03562d3ba0367b940d00a2b590
+inserting page_number : 3
+ "Mountains were just created!" << endl;
+}
+
+Mounta
+digest is : 46c18815f55ec8a520fc23e4e95ae530
+inserting page_number : 4
+ins::~Mountains() {
+	cout << "Mountains are about 
+digest is : 2fb6e0264ef6c80e4e8384210a1e06db
+inserting page_number : 5
+makeDigest() : digest != NULL !!
+node with page number : 3
+makeDigest() : digest != NULL !!
+node with page number : 4
+makeDigest() : digest != NULL !!
+node with page number : 5
+Digest made : 34a73b6b66e8ff2fc9819cbd27fef566
+node with page number : -6
+=========
+makeDigest() : END
+to be destroyed." << endl;
+}
+
+digest is : f8f6607569a0c7e6bd87420c73e135c1
+==========
+TREE FINALIZING START!
+node with page number : -5
+==========
+==========
+TREE FINALIZING START!
+node with page number : -4
+==========
+makeDigest() : digest != NULL !!
+node with page number : -4
+==========
+TREE FINALIZING START!
+node with page number : -6
+==========
+makeDigest() : digest != NULL !!
+node with page number : -6
+Digest made : ead10876021d658ef0c7031b974bf813
+node with page number : -5
+=========
+makeDigest() : END
+==========
+TREE FINALIZING END!
+node with page number : -5
+==========
+A tree with fan-out : 3 was just created and loaded!!
+START PRINT TREE
+==========================
+Node with pageNumber : 0 .
+hash = 2832723cb1e9273ba8f23ba41aafe6ce
+
+Node with pageNumber : 1 .
+hash = f3f3ff68f051a618ed07831fc6b6523a
+
+Node with pageNumber : 2 .
+hash = 6398ad03562d3ba0367b940d00a2b590
+
+this is an upperHeight Node with no page in!
+hash = a59bbcfaa9fce1b60dbac751d35a3b72
+
+Node with pageNumber : 3 .
+hash = 46c18815f55ec8a520fc23e4e95ae530
+
+Node with pageNumber : 4 .
+hash = 2fb6e0264ef6c80e4e8384210a1e06db
+
+Node with pageNumber : 5 .
+hash = f8f6607569a0c7e6bd87420c73e135c1
+
+this is an upperHeight Node with no page in!
+hash = 34a73b6b66e8ff2fc9819cbd27fef566
+
+this is an upperHeight Node with no page in!
+hash = ead10876021d658ef0c7031b974bf813
+
+END PRINT TREE
+START PRINT TREE
+==========================
+Node with pageNumber : 0 .
+hash = 2832723cb1e9273ba8f23ba41aafe6ce
+
+Node with pageNumber : 1 .
+hash = f3f3ff68f051a618ed07831fc6b6523a
+
+Node with pageNumber : 2 .
+hash = 6398ad03562d3ba0367b940d00a2b590
+
+this is an upperHeight Node with no page in!
+hash = a59bbcfaa9fce1b60dbac751d35a3b72
+
+Node with pageNumber : 3 .
+hash = 46c18815f55ec8a520fc23e4e95ae530
+
+Node with pageNumber : 4 .
+hash = 2fb6e0264ef6c80e4e8384210a1e06db
+
+Node with pageNumber : 5 .
+hash = f8f6607569a0c7e6bd87420c73e135c1
+
+this is an upperHeight Node with no page in!
+hash = 34a73b6b66e8ff2fc9819cbd27fef566
+
+this is an upperHeight Node with no page in!
+hash = ead10876021d658ef0c7031b974bf813
+
+END PRINT TREE
+Files are same at page n1->getPage() : -2
+Digest at n1 : ead10876021d658ef0c7031b974bf813
+Files are same at page n2->getPage() : -5
+Digest at n2 : ead10876021d658ef0c7031b974bf813
+Trees are exacly the same!
+A tree with fan-out : 3 is about to be destroyed.
+And root height : 2 .
+A tree with fan-out : 3 is about to be destroyed.
+And root height : 2 .
+Nodes created : 18 .
+Nodes inserted : 18 .
+Nodes deleted : 18 .

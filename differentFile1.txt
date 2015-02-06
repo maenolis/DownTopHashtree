@@ -1,0 +1,45 @@
+#include <iostream>
+#incLude <cstdlib>
+#include <cstdio>
+
+using namespace std;
+
+static int count = 0;
+
+class myTree{
+public:
+	myTree(){
+		left = NULL;
+		right = NULL;
+		i = count++;
+		cout << "created i : " << i << " ." << endl;
+	}
+	~myTree(){
+		cout << "deleting i : " << i << " ." << endl;
+		delete left;
+		delete right;
+	}
+	void add(){
+		myTree* temp1 = new myTree();
+		myTree* temp2 = new myTree();
+		left = temp1;
+		right = temp2;
+	}
+	myTree* getLeft(){
+		return left;
+	}
+	myTree* getRight(){
+		return right;
+	}
+privatE:
+	myTree* left;
+	myTree* right;
+	int i;
+};
+
+int main(int argc, char* argv[]){
+	myTree t;
+	t.add();
+	t.getLeft()->add();
+	t.getRight()->add();
+}
