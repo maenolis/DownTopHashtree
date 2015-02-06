@@ -4,8 +4,6 @@
 #include <cstdlib>
 #include "components.h"
 
-//paradeigma paragogis MD5 hashes
-//online applet at: http://www.md5.cz/
 
 using namespace std;
 
